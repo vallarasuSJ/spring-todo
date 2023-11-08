@@ -1,0 +1,36 @@
+08-Nov-2023 14:15:23.316 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.95
+08-Nov-2023 14:15:23.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 12 2023 00:55:53 UTC
+08-Nov-2023 14:15:23.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.95.0
+08-Nov-2023 14:15:23.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+08-Nov-2023 14:15:23.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+08-Nov-2023 14:15:23.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Nov-2023 14:15:23.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+08-Nov-2023 14:15:23.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.8+9-LTS-211
+08-Nov-2023 14:15:23.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Nov-2023 14:15:23.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\kumaran\Documents\spring-todo
+08-Nov-2023 14:15:23.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\kumaran\Documents\apache-tomcat-8.5.95\apache-tomcat-8.5.95
+08-Nov-2023 14:15:23.323 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Nov-2023 14:15:23.323 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Nov-2023 14:15:23.323 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+08-Nov-2023 14:15:23.323 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+08-Nov-2023 14:15:23.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Nov-2023 14:15:23.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\kumaran\Documents\apache-tomcat-8.5.95\apache-tomcat-8.5.95
+08-Nov-2023 14:15:23.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\kumaran\Documents\spring-todo
+08-Nov-2023 14:15:23.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\kumaran\Documents\spring-todo\temp
+08-Nov-2023 14:15:23.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\kumaran\Documents\spring-todo\conf\logging.properties
+08-Nov-2023 14:15:23.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Nov-2023 14:15:23.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2.2\lib\idea_rt.jar=54570:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2.2\bin
+08-Nov-2023 14:15:23.324 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+08-Nov-2023 14:15:23.324 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files (x86)\apache-maven-3.8.6\bin;C:\Users\kumaran\AppData\Local\Microsoft\WindowsApps;C:\Users\kumaran\AppData\Roaming\npm;C:\Users\kumaran\AppData\Local\Programs\Git\cmd;.]
+08-Nov-2023 14:15:23.450 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Nov-2023 14:15:23.477 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 808 ms
+08-Nov-2023 14:15:23.542 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Nov-2023 14:15:23.542 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.95]
+08-Nov-2023 14:15:23.564 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\kumaran\Documents\spring-todo\conf\Catalina\localhost\ROOT.xml]
+08-Nov-2023 14:15:24.017 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\kumaran\Documents\spring-todo\conf\Catalina\localhost\ROOT.xml] has finished in [453] ms
+08-Nov-2023 14:15:24.020 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Nov-2023 14:15:24.077 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 599 ms
+08-Nov-2023 14:15:35.722 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Nov-2023 14:15:35.735 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Nov-2023 14:15:35.746 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Nov-2023 14:15:35.766 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
